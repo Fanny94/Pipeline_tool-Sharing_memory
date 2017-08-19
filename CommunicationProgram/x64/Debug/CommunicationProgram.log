@@ -1,0 +1,5 @@
+﻿  CircularBuffer.cpp
+c:\users\funne\onedrive\dokument\communicationprogram\communicationprogram\circularbuffer.cpp(31): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\funne\onedrive\dokument\communicationprogram\communicationprogram\circularbuffer.cpp(52): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+c:\users\funne\onedrive\dokument\communicationprogram\communicationprogram\circularbuffer.cpp(78): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'long' can equal the given constant
+  CommunicationProgram.vcxproj -> C:\Users\funne\OneDrive\Dokument\CommunicationProgram\x64\Debug\CommunicationProgram.exe
